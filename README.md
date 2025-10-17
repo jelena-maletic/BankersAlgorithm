@@ -67,3 +67,7 @@ Below are screenshots showcasing the program in action:
    - Check if the system is in a **safe state**  
    - Display the **safe sequence** (if it exists)  
    - Evaluate whether new **requests** can be safely granted  
+
+## Acknowledgements / Inspired by
+
+This project was implemented for educational purposes as part of a Fundamentals of Operating Systems course.
